@@ -1,0 +1,13 @@
+C:\Code\Test Projects\Ruler\Ruler\bin\Debug\Ruler.exe.config
+C:\Code\Test Projects\Ruler\Ruler\bin\Debug\Ruler.exe
+C:\Code\Test Projects\Ruler\Ruler\bin\Debug\Ruler.pdb
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler.csprojResolveAssemblyReference.cache
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\MainWindow.baml
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\MainWindow.g.cs
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\App.g.cs
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler_MarkupCompile.cache
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler.g.resources
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler.Properties.Resources.resources
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler.csproj.GenerateResource.Cache
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler.exe
+C:\Code\Test Projects\Ruler\Ruler\obj\Debug\Ruler.pdb

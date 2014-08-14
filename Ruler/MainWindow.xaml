@@ -1,0 +1,18 @@
+﻿<Window x:Class="Ruler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" SizeToContent="WidthAndHeight" AllowsTransparency="True" Background="Transparent" WindowStyle="None" MouseDown="Window_MouseDown">
+    <Grid>
+        <Border Background="#80FFFFFF" Width="400" Height="40" Name="RulerBorder" BorderThickness="1" BorderBrush="Black">
+            <Grid>
+                <Thumb HorizontalAlignment="Right" VerticalAlignment="Bottom" DragDelta="Thumb_DragDelta" Height="40" Width="40" />
+
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Run Text="{Binding ElementName=RulerBorder, Path=ActualWidth, Mode=OneWay}" />
+                    <Run Text="x" />
+                    <Run Text="{Binding ElementName=RulerBorder, Path=ActualHeight, Mode=OneWay}" />
+                </TextBlock>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
